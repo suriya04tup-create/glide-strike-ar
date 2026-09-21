@@ -1,6 +1,6 @@
 # Air Hockey AR case study
 
-- [ ] Build the full editorial case study experience
-- [ ] Add animated technical diagrams and interaction details
-- [ ] Add editable visual and asset-credit placeholders
-- [ ] Verify desktop and mobile presentation
+- [x] Build the full editorial case study experience
+- [x] Add animated technical diagrams and interaction details
+- [x] Add editable visual and asset-credit placeholders
+- [x] Verify desktop and mobile presentation
