@@ -14,7 +14,7 @@ export const Route = createFileRoute("/")({
       { name: "twitter:card", content: "summary_large_image" },
     ],
   }),
-  component: Index,
+  component: () => <Index />,
 });
 
 const systems = ["Script-driven puck movement", "Touch-controlled paddle", "AI opponent", "Mathematical collision detection", "Wall boundaries", "Goal detection", "Score system", "Game-start interaction", "Real-time UI feedback"];
